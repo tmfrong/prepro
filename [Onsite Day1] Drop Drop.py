@@ -1,4 +1,4 @@
-"""[Onsite Day1] Drop Drop"""
+"""[Onsite Day1] Drop"""
 def main():
     """print [Onsite Day1] Drop Drop"""
     grade_semeter1 = float(input())
